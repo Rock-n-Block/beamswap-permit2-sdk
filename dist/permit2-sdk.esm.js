@@ -3,7 +3,7 @@ import { _TypedDataEncoder } from '@ethersproject/hash';
 import { BigNumber } from '@ethersproject/bignumber';
 import { Contract } from '@ethersproject/contracts';
 
-var PERMIT2_ADDRESS = '0x000000000022D473030F116dDEE9F6B43aC78BA3'; // TODO: change to Moonbase address
+var PERMIT2_ADDRESS = '0x730D6E3369969C32009Bf2d063c13D3493083202';
 var MaxUint48 = /*#__PURE__*/BigNumber.from('0xffffffffffff');
 var MaxUint160 = /*#__PURE__*/BigNumber.from('0xffffffffffffffffffffffffffffffffffffffff');
 var MaxUint256 = /*#__PURE__*/BigNumber.from('0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff');

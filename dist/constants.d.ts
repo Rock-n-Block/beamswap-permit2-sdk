@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber';
-export declare const PERMIT2_ADDRESS = "0x000000000022D473030F116dDEE9F6B43aC78BA3";
+export declare const PERMIT2_ADDRESS = "0x730D6E3369969C32009Bf2d063c13D3493083202";
 export declare const MaxUint48: BigNumber;
 export declare const MaxUint160: BigNumber;
 export declare const MaxUint256: BigNumber;
